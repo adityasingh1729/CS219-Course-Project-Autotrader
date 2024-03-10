@@ -1,2 +1,2 @@
-# CS219-Project-Autotrader
+# CS293-Project-Autotrader
 In this project we developed an Autotrader system tailored to operate on a simulated market.
